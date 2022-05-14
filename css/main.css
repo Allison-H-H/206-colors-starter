@@ -87,7 +87,6 @@ footer {
 
 
 
-
 /*---------- Desktops ----------*/
 @media (min-width: 1200px) {
   header {
@@ -104,10 +103,14 @@ footer {
 
   #column-3 {
     background-color: limegreen;
+    width: 33.33%;
   }
 
   footer {
-    background-color: whitesmoke;
+    background-color: black;
   }
-   
+
+  .col-3 {
+      width: 33.33%;
+  }
 }
